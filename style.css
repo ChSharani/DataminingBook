@@ -1,15 +1,21 @@
-p{
-    font-family:calibri;
-    text-align:right;
+body{
+    margin-left: 100px;
+    margin-right:100px;
+}
+h3{
+    margin-top: 50px;
+    
 }
 div.b{
     text-align:justify;
 }
 div.c{
+    line-height: 1.2;
     text-align:justify;
     font-family: serif;
 }
-p3{
+p{
   text-align:justify;
-    font-family: serif;  
+    font-family: serif; 
+    line-height: 1.5;
 }
